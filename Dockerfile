@@ -1,4 +1,4 @@
-ARG ENDPOINT=/admin
+ARG ENDPOINT=/hsadmin
 ARG PORT=80
 
 FROM node:20-alpine AS build
